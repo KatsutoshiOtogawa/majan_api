@@ -1,0 +1,25 @@
+{
+    "tehai":{
+        "man": "234555",
+        "pin": "555",
+        "sou": "22555"
+    },
+    "agarihai":{
+        "sou": "5"
+    },
+    "dora_indicators": {
+        "man": "222",
+        "pin": "1"
+    },
+    "config": {
+        "is_tsumo": true,
+        "is_rinshan": false,
+        "is_riichi": true,
+        "player_wind": "SOUTH",
+        "round_wind": "EAST"
+    }
+    ,"options": {
+        "kazoe_limit": true,
+        "has_aka_dora": true
+    }
+}
